@@ -10,7 +10,7 @@
 ### Project 2: E-commerce Platform
 - Description: Developed a full-featured e-commerce website with shopping cart and payment integration.
 - Technologies: React, Node.js, MongoDB
-- [View Project](https://link-to-project.com)
+  ![shpping](images/shopping.jpg)
 
 ### Project 3: Personal Blog
 - Description: Created a personal blog to share tech articles and tutorials.
