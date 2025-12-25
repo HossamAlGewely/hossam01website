@@ -15,5 +15,5 @@
 ### Project 3: Personal Blog
 - Description: Created a personal blog to share tech articles and tutorials.
 - Technologies: Jekyll, Markdown, GitHub Pages
-  ![personal blog](image/rafting3.jpg)
+  ![personal blog](images/rafting3.jpg)
 ---
