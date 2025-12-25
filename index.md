@@ -16,7 +16,7 @@ Feel free to reach out via the [Contact Page](contact.md)
 
 ---
 
-### Latest Projects
+## Latest Projects
 Check out my portfolio for some of my recent work!
 
 [View Portfolio](portfolio.md)
