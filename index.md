@@ -1,13 +1,15 @@
 # Welcome to My Website
 
 ## About Me
-Hi! I'm Hossam, a complete beginner to software development and DevSecOps ![my picture](images/0003.jpg)
+- Hi! I'm Hossam, a complete beginner to software development and DevSecOps 
+- Feel free to reach out via the [About](about.md)
 
 ## My Services
 - Web Design
 - Development
 - SEO Optimization
 - Consulting
+- For more details, please check [Services](services.md)
 
 ## Contact Me
 Feel free to reach out via the [Contact Page](contact.md)
