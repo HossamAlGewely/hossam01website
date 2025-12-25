@@ -10,7 +10,7 @@ Hi! I'm Hossam, a complete beginner to software development and DevSecOps
 - Consulting
 
 ## Contact Me
-Feel free to reach out via the [Contact Page](contact.md) or email me at [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out via the [Contact Page](contact.md)
 
 ---
 
