@@ -17,3 +17,4 @@
 - Technologies: Jekyll, Markdown, GitHub Pages
   ![personal blog](images/rafting3.jpg)
 ---
+[Back to Home Page](index.md)
