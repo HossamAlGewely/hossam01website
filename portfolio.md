@@ -5,7 +5,7 @@
 ### Project 1: Website Redesign
 - Description: Redesigned the company website to improve user experience and responsiveness.
 - Technologies: HTML, CSS, JavaScript, Bootstrap
-- [View Project](https://link-to-project.com)
+- ![Company Website](images/graph01.jpg)
 
 ### Project 2: E-commerce Platform
 - Description: Developed a full-featured e-commerce website with shopping cart and payment integration.
