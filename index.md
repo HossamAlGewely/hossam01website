@@ -1,4 +1,3 @@
-# Welcome to My Website
 
 ## About Me
 - Hi! I'm Hossam, a complete beginner to software development and DevSecOps 
