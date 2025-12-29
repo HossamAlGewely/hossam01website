@@ -1,6 +1,6 @@
 # Welcome to My website 
 ## About Me
-- Hi! I'm Hossam, a complete beginner to software development and DevSecOps 
+- Hi! I'm Hossam Algewely, a complete beginner to software development and DevSecOps 
 - Feel free to know more about me via [About](about.html)
 
 ## My Services
